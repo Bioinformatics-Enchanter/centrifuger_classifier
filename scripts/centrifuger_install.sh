@@ -8,3 +8,5 @@ cd centrifuger
 make
 cd ..
 
+chmod +x centrifuger-download
+
